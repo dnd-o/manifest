@@ -4,6 +4,7 @@
   <!-- LineageOS additions -->
   <project path="manifest" name="manifest" remote="dnd"  />
   <project path="device/dnd/sepolicy" name="android_device_dnd_sepolicy" remote="dnd"  />
+  <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" />
   <project path="external/bash" name="LineageOS/android_external_bash" />
   <!--<project path="external/cmsdk-api-coverage" name="LineageOS/android_external_cmsdk-api-coverage" />-->
   <project path="external/exfat" name="LineageOS/android_external_exfat" />
